@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 89180a423dfe13f42b2b7d8a27bec807
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 385
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef1e770e4e68524d89c4e1aecea95ee
+      internalID: 1634670377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_1"
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1394
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc84d507975349468661827f6985940
+      internalID: -157459370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_2"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1393
+        width: 144
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd26f347a2f4f49946ac521527dc2a
+      internalID: -1170723276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_3"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1298
+        width: 48
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521662a31dadfb747b68c83eceae18b9
+      internalID: -315659529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_4"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1297
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1b17f219c25a243863d8bb33c6c0a4
+      internalID: 2063732464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 768
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4b2446cd9099641a3d55d1031fe587
+      internalID: 577845204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_6"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 533
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ae01666867fd249a8b786a9c2780fc
+      internalID: 1500384443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_7"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 533
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3a4884699ccc34888b11f2ff8297cb
+      internalID: 654421332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_8"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 533
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e25f06336ea7494ba9b88e79676ec43
+      internalID: -1176595106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_9"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 533
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb6e015cf63f947968d2d553b45d7a
+      internalID: 950093030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_10"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 533
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa61c9c126ad084f9161007d446228d
+      internalID: -169614315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_11"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 437
+        width: 140
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e882adfa9412a47438e0431771a807b1
+      internalID: 806647463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_12"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 434
+        width: 384
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7747ea0f342a6a84297f417317b986dd
+      internalID: -1692937213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_13"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 485
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d52f8400bb9ad34baf7c8e52ce37683
+      internalID: 58768997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_14"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 485
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541a09048d7e7b3478724d47844020fc
+      internalID: -1369664686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_15"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 485
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e41715dee254e48b408c1275947487
+      internalID: -861075181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_16"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 485
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14752d36bc5a644faaaf34ca618b190
+      internalID: 348540760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_17"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 485
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d98c11d346ff47bed24619ced8193
+      internalID: -1410682775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_18"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 437
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173ad272120426041b97850e73232633
+      internalID: -936274802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_19"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 437
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8dbbd0b459e944594354101efed98a
+      internalID: 1798759818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_20"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 437
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba726f4842d904b8e9094b1f10658d
+      internalID: 792884097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_21"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 437
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cea49c1c88a3f45a6bbc96b85da3f3
+      internalID: -1948297861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_22"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 437
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6eec3d7f674144db808c437d39152e
+      internalID: -2101632303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_23"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 389
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e1659be5ab274abda9dad96b1fa7c
+      internalID: -516138222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_24"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 341
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f228e2eaba985a4db54049089828d4d
+      internalID: -419028307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_25"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 238
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df59ee328448b842809790abf0ec044
+      internalID: -653276749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_26"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 384
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b516842aeba2dd049b356043f5032b02
+      internalID: 580649307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pipo-map001_at - \xE2R\xE2s\xFC[_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d35cf90a3a294ea8e943bd5d11f16
+      internalID: 1679592112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "pipo-map001_at - \xE2R\xE2s\xFC[_25": -653276749
+      "pipo-map001_at - \xE2R\xE2s\xFC[_16": 348540760
+      "pipo-map001_at - \xE2R\xE2s\xFC[_7": 654421332
+      "pipo-map001_at - \xE2R\xE2s\xFC[_5": 577845204
+      "pipo-map001_at - \xE2R\xE2s\xFC[_13": 58768997
+      "pipo-map001_at - \xE2R\xE2s\xFC[_2": -1170723276
+      "pipo-map001_at - \xE2R\xE2s\xFC[_12": -1692937213
+      "pipo-map001_at - \xE2R\xE2s\xFC[_0": 1634670377
+      "pipo-map001_at - \xE2R\xE2s\xFC[_26": 580649307
+      "pipo-map001_at - \xE2R\xE2s\xFC[_19": 1798759818
+      "pipo-map001_at - \xE2R\xE2s\xFC[_21": -1948297861
+      "pipo-map001_at - \xE2R\xE2s\xFC[_3": -315659529
+      "pipo-map001_at - \xE2R\xE2s\xFC[_27": 1679592112
+      "pipo-map001_at - \xE2R\xE2s\xFC[_1": -157459370
+      "pipo-map001_at - \xE2R\xE2s\xFC[_10": -169614315
+      "pipo-map001_at - \xE2R\xE2s\xFC[_18": -936274802
+      "pipo-map001_at - \xE2R\xE2s\xFC[_8": -1176595106
+      "pipo-map001_at - \xE2R\xE2s\xFC[_20": 792884097
+      "pipo-map001_at - \xE2R\xE2s\xFC[_22": -2101632303
+      "pipo-map001_at - \xE2R\xE2s\xFC[_14": -1369664686
+      "pipo-map001_at - \xE2R\xE2s\xFC[_11": 806647463
+      "pipo-map001_at - \xE2R\xE2s\xFC[_15": -861075181
+      "pipo-map001_at - \xE2R\xE2s\xFC[_24": -419028307
+      "pipo-map001_at - \xE2R\xE2s\xFC[_17": -1410682775
+      "pipo-map001_at - \xE2R\xE2s\xFC[_6": 1500384443
+      "pipo-map001_at - \xE2R\xE2s\xFC[_9": 950093030
+      "pipo-map001_at - \xE2R\xE2s\xFC[_4": 2063732464
+      "pipo-map001_at - \xE2R\xE2s\xFC[_23": -516138222
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
